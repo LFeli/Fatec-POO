@@ -1,6 +1,6 @@
-Retangulo.java
 
-package fatec.poo.model;
+
+package model;
 
 public class Retangulo {
 
