@@ -13,5 +13,5 @@ Bem vindo ao meu repositório de Java, aqui irei colocar os exercicios da minha 
 Rode esse comando no seu terminal que irá mostrar : ```java -version```  
   
 - Como posso testar os códigos na minha máquina ?  
-Simples, no arquivo que colocarmos ```aplic.java``` você irá usa-lo como **classe principal**, ja no outro arquivo provavelemnte precisarar criar um package com o nome "modal" e dentro dele uma **classe java normal**.
+Simples, no arquivo que colocarmos ```aplic.java``` você irá usa-lo como **classe principal**, ja no outro arquivo provavelemnte precisarar criar um package com o nome "model" e dentro dele uma **classe java normal**.
 
