@@ -16,4 +16,4 @@ Rode esse comando no seu terminal que irá mostrar : ```java -version```
 Simples, no arquivo que colocarmos ```aplic.java``` você irá usa-lo como **classe principal**, ja no outro arquivo provavelemnte precisarar criar um package com o nome "model" e dentro dele uma **classe java normal**.  
   
 - Qual a diferença entre Exercicio e atv-material ?  
-```Exercicio``` são os arquivos de atividade que muitas das vezes contém vários exericios e normalmente contám no peso da nota, já os arquivos ```atv-material``` são alguns exercicios que ficam nos materiais de apoio para nos praticarmos.
+```Exercicio``` são os arquivos de atividade que muitas das vezes contém vários exericios e normalmente contam no peso da nota, já os arquivos ```atv-material``` são alguns exercicios que ficam nos materiais de apoio para nos praticarmos.
